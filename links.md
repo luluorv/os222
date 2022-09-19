@@ -15,6 +15,8 @@ permalink: LINKS/
 
 # LINKS
 
+## Week 01
+
 1. [Virtual Machines](https://www.vmware.com/topics/glossary/content/virtual-machine.html)<br>
 VMware's explanation of what virtual machines are and what is it used for. It explains the materials in an easy-to-understand manner.
 
@@ -23,6 +25,17 @@ This is a link to a list of linux commands. Description of each command is simpl
 
 3. [Regexr](https://regexr.com/)<br>
 A website to test and learn regex. It also has a cheatsheet on the side as well as regex references. There is also a community where you can search for other people's pattern and share your own pattern.
+
+## Week 02
+
+1. [RSA](https://www.geeksforgeeks.org/rsa-algorithm-cryptography/)<br>
+Simple explanation by GeeksForGeeks about RSA. It also shows how it works by giving an example on how to generate public key and private key, as well as it's implementation.
+
+2. [Firewall](https://youtu.be/kDEX1HXybrU)<br>
+A short video about what a firewall is and how it works. The explanantion is accompanied by animation, which made the video more enjoyable and more easily understood.
+
+3. [GnuPG](https://www.gnupg.org/gph/en/manual.html)
+The manual for GnuPG's commands. A collection of commands compiled into one handbook.
 
 <br>
 <hr>
