@@ -34,8 +34,19 @@ Simple explanation by GeeksForGeeks about RSA. It also shows how it works by giv
 2. [Firewall](https://youtu.be/kDEX1HXybrU)<br>
 A short video about what a firewall is and how it works. The explanantion is accompanied by animation, which made the video more enjoyable and more easily understood.
 
-3. [GnuPG](https://www.gnupg.org/gph/en/manual.html)
+3. [GnuPG](https://www.gnupg.org/gph/en/manual.html)<br>
 The manual for GnuPG's commands. A collection of commands compiled into one handbook.
+
+## Week 03
+
+1. [File Organization](https://www.geeksforgeeks.org/file-organization-in-dbms-set-1/)<br>
+There are many types of file organizations, here they are all compiled. It explains from sequential to clustered file organization, complete with its own pros and cons for each type.
+
+2. [File Allocation](https://www.geeksforgeeks.org/file-allocation-methods/)<br>
+Same as the previous link, its also from GeeksforGeeks. It explains three types of allocation methods with its advantages and disadvantages.
+
+3. [Mount File System](https://www.thegeekdiary.com/how-to-create-and-mount-filesystems-in-linux/)<br>
+There are many types of file systems, like ext2, ext3, ext4, vfat, XFS, and Btrfs. This link shows a step-by-step on how to create and mount file systems.
 
 <br>
 <hr>
