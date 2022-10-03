@@ -48,6 +48,17 @@ Same as the previous link, its also from GeeksforGeeks. It explains three types 
 3. [Mount File System](https://www.thegeekdiary.com/how-to-create-and-mount-filesystems-in-linux/)<br>
 There are many types of file systems, like ext2, ext3, ext4, vfat, XFS, and Btrfs. This link shows a step-by-step on how to create and mount file systems.
 
+## Week 04
+
+1. [Memory Management](https://www.geeksforgeeks.org/memory-management-in-operating-system/)<br>
+Explains about memory management in an operating systems. It include things like logical and physical address, static and dynamic loading and linking, as well as memory allocation.
+
+2. [Paging](https://www.geeksforgeeks.org/paging-in-operating-system/)<br>
+A short explanation of the paging memory management scheme. Included with example to make the concept easy to understand.
+
+3. [Pointers in C](https://www.javatpoint.com/c-pointers)<br>
+Gives a good and detailed tutorial about C pointers. Complete with visualization and example.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
