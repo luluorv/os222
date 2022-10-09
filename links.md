@@ -59,6 +59,16 @@ A short explanation of the paging memory management scheme. Included with exampl
 3. [Pointers in C](https://www.javatpoint.com/c-pointers)<br>
 Gives a good and detailed tutorial about C pointers. Complete with visualization and example.
 
+## Week 5
+
+1. [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+GeeksforGeeks's article about virtual memory. From it's definiton to paging and also its advantages.
+
+2. [Demand Paging](https://www.interserver.net/tips/kb/virtual-memory-demand-paging/)<br>
+What is virtual memory and demand paging according to interserver. A short explanation of both along with how demand paging work.
+
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
