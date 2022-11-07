@@ -67,6 +67,19 @@ GeeksforGeeks's article about virtual memory. From it's definiton to paging and 
 2. [Demand Paging](https://www.interserver.net/tips/kb/virtual-memory-demand-paging/)<br>
 What is virtual memory and demand paging according to interserver. A short explanation of both along with how demand paging work.
 
+## Week 6
+
+1. [Process](https://www.studytonight.com/operating-system/operating-system-processes)<br>
+This article focuses on what process is in operating system. It goes over its sections, differences in states, scheduling, and the difference between processes and programs.
+
+2. [Concurrency](https://www.geeksforgeeks.org/concurrency-in-operating-system/)<br>
+A GeeksforGeeks article about concurrency. Ranging from its priciples to its issues.
+
+3. [Thread](https://www.geeksforgeeks.org/thread-in-operating-system/)<br>
+Another GeeksforGeeks article. This time its about threads.
+
+4. [fork()](https://www.includehelp.com/c-programs/c-fork-function-linux-example.aspx)<br>
+Explanation and example of fork() function.
 
 
 <br>
