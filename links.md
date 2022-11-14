@@ -81,6 +81,15 @@ Another GeeksforGeeks article. This time its about threads.
 4. [fork()](https://www.includehelp.com/c-programs/c-fork-function-linux-example.aspx)<br>
 Explanation and example of fork() function.
 
+## Week 7
+1. [Race Condition](https://www.techtarget.com/searchstorage/definition/race-condition)<br>
+A page explaining race condition. There is also a video to better visualize it.
+
+2.[Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+Overview of process synchronization by GeeksforGeeks. 
+
+3. [Deadlock](https://www.youtube.com/watch?v=UVo9mGARkhQ)<br>
+A video explanation of deadlocks.
 
 <br>
 <hr>
