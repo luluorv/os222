@@ -91,6 +91,10 @@ Overview of process synchronization by GeeksforGeeks.
 3. [Deadlock](https://www.youtube.com/watch?v=UVo9mGARkhQ)<br>
 A video explanation of deadlocks.
 
+## Week 8
+1. [Scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/#types)<br>
+Different types of scheduling.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
