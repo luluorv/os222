@@ -95,6 +95,10 @@ A video explanation of deadlocks.
 1. [Scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/#types)<br>
 Different types of scheduling.
 
+## Week 9
+1. [Mass-Storage Structure](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/10_MassStorage.html)<br>
+Some notes about mass-storage structure.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
